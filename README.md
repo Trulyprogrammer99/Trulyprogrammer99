@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Trulyprogrammer99
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning HTML and CSS and JavaScript 
+- 📫 How to reach me-email: trulyprogrammernehaal@gmail.com 
